@@ -5,3 +5,7 @@ This repository contains a Python-based web scraping project that retrieves hist
 
 #### Importance
 Please download main.ipynb and open in Google Colab
+
+
+#### GoogleSheet Format
+https://docs.google.com/spreadsheets/d/1n6GyCuEFBEnNZ5tj_FLViQ1PhbCP8iDFDvMmi1gKGdM/edit?usp=sharing
